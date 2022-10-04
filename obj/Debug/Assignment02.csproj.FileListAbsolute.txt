@@ -1,3 +1,11 @@
 C:\Users\anubenoy\source\repos\QA\Assignment02\obj\Debug\Assignment02.csproj.AssemblyReference.cache
 C:\Users\anubenoy\source\repos\QA\Assignment02\obj\Debug\Assignment02.csproj.SuggestedBindingRedirects.cache
 C:\Users\anubenoy\source\repos\QA\Assignment02\obj\Debug\Assignment02.csproj.CoreCompileInputs.cache
+T:\alan\visual studio assignments\Assignment02\bin\Debug\Assignment02.exe.config
+T:\alan\visual studio assignments\Assignment02\bin\Debug\Assignment02.exe
+T:\alan\visual studio assignments\Assignment02\bin\Debug\Assignment02.pdb
+T:\alan\visual studio assignments\Assignment02\obj\Debug\Assignment02.csproj.AssemblyReference.cache
+T:\alan\visual studio assignments\Assignment02\obj\Debug\Assignment02.csproj.SuggestedBindingRedirects.cache
+T:\alan\visual studio assignments\Assignment02\obj\Debug\Assignment02.csproj.CoreCompileInputs.cache
+T:\alan\visual studio assignments\Assignment02\obj\Debug\Assignment02.exe
+T:\alan\visual studio assignments\Assignment02\obj\Debug\Assignment02.pdb

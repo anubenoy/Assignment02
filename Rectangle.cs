@@ -6,19 +6,19 @@ using System.Threading.Tasks;
 
 namespace Assignment02
 {
-    internal class Rectangle
+    public class Rectangle
     {
         //variables declaration
         int length;
         int width;
 
         //default constructor
-        Rectangle(){
+        public Rectangle(){
             this.length = 1;
             this.width = 1;
         }
         //non-default constructor
-        Rectangle(int length, int width)
+        public Rectangle(int length, int width)
         {
             this.length = length;
             this.width = width;
