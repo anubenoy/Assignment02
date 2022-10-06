@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Assignment02
+﻿namespace Assignment02
 {
     public class Rectangle
     {
@@ -13,7 +7,8 @@ namespace Assignment02
         int width;
 
         //default constructor
-        public Rectangle(){
+        public Rectangle()
+        {
             this.length = 1;
             this.width = 1;
         }
